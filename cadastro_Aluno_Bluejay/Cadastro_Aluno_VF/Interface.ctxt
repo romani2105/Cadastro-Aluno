@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Interface
+comment1.params=
+comment1.target=java.lang.String\ lerNome()
+comment2.params=
+comment2.target=java.lang.String\ lerRa()
+comment3.params=
+comment3.target=java.lang.String\ lerCurso()
+comment4.params=
+comment4.target=Disciplina\ lerDisciplina()
+comment5.params=
+comment5.target=float\ lerNotaDisciplina()
+comment6.params=
+comment6.target=void\ inserirAluno()
+numComments=7

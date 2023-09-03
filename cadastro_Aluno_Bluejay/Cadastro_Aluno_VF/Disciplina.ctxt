@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Disciplina\ aqui.\r\n\ \r\n\ Gabriel\ Carlos\ Silva\ RA\ 00325868\r\n\ \ Gustavo\ Bertolini\ Carvalho\ de\ Castro\ RA\ 00325934\r\n\ \ Rafael\ Santos\ Sakatauskas\ RA\ 00325920\r\n\ \ Murilo\ Bonventi\ Romani\ Pinto\ RA\ 00321715\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=nota\ nomeDisc
+comment1.target=Disciplina(double,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Disciplina\r\n\r\n
+comment2.params=
+comment2.target=void\ apresentaDisciplina()
+comment3.params=
+comment3.target=double\ getnota()
+comment4.params=notaDisc
+comment4.target=void\ setnota(double)
+comment5.params=
+comment5.target=java.lang.String\ getnomeDisc()
+comment6.params=nomeDisc
+comment6.target=void\ setnomeDisc(java.lang.String)
+numComments=7
