@@ -1,12 +1,32 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+Sistema de Cadastro de Alunos
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+Projeto desenvolvido em Java para armazenamento e gerenciamento de informações de alunos.
+
+ Funcionalidades:
+
+* Cadastro de alunos
+* Armazenamento de matrícula
+* Registro de notas
+* Busca de registros de alunos
+* Consulta de informações cadastradas
+
+ Tecnologias Utilizadas:
+
+* Java
+
+ Objetivo do Projeto:
+
+O objetivo deste projeto é praticar conceitos de programação, manipulação de dados e organização de informações utilizando Java.
+
+ Como Executar:
+
+1. Compile os arquivos `.java`
+2. Execute a classe principal do projeto
+
+Conceitos Trabalhados:
+
+* Programação orientada a objetos
+* Estruturas de dados
+* Manipulação de informações
+* Organização e busca de registros
+
